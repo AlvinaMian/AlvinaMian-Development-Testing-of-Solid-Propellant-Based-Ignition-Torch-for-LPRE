@@ -1,1 +1,1 @@
-# AlvinaMian-Development-Testing-of-Solid-Propellant-Based-Ignition-Torch-for-LPRE
+# DEVELOPMENT AND TESTING OF SOLID PROPELLANT – BASED IGNITION TORCH FOR LPRE
